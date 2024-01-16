@@ -9,7 +9,7 @@
 		{
 			"package": {
 				"ecosystem": "Go",
-				"name": "https://github.com/gravitational/teleport"
+				"name": "github.com/gravitational/teleport"
 			},
 			"ranges": [
 				{
@@ -28,7 +28,7 @@
 		{
 			"package": {
 				"ecosystem": "Go",
-				"name": "https://github.com/gravitational/teleport"
+				"name": "github.com/gravitational/teleport"
 			},
 			"ranges": [
 				{
@@ -47,7 +47,7 @@
 		{
 			"package": {
 				"ecosystem": "Go",
-				"name": "https://github.com/gravitational/teleport"
+				"name": "github.com/gravitational/teleport"
 			},
 			"ranges": [
 				{
