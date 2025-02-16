@@ -32,14 +32,7 @@
 						}
 					]
 				}
-			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"NewTracer",
-					"NewTracerOptions",
-					"modelWriter.buildModelTransaction"
-				]
-			}
+			]
 		}
 	],
 	"references": [
